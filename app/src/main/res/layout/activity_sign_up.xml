@@ -6,13 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".signUp">
 
-    <!--    <ImageView-->
-
-    <!--        android:layout_width="150dp"-->
-    <!--        android:layout_height="150dp"-->
-    <!--        android:src="@drawable/giphy"-->
-    <!--        android:layout_centerHorizontal="true"-->
-    <!--        android:layout_marginTop="78dp"/>-->
 
     <pl.droidsonroids.gif.GifImageView
         android:id="@+id/giphy"
@@ -76,6 +69,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
         android:text="SignUp"
+        android:textColor="@color/white"
         android:background="@drawable/btn_bg_signup"
 
         />

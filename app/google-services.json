@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584536461624",
+    "project_id": "encryption-chat-app-ab070",
+    "storage_bucket": "encryption-chat-app-ab070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584536461624:android:db7fc61026ac32d2e031cd",
+        "android_client_info": {
+          "package_name": "com.example.chatappwithencryption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584536461624-5r5t6sft6ed28cc25utksnh1jdr5jdh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtVnBwp6LuUYaaVoK8s4X44r2I2TiHEO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584536461624-5r5t6sft6ed28cc25utksnh1jdr5jdh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

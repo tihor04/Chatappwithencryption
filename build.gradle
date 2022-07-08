@@ -5,6 +5,12 @@ buildscript {
         google()
         jcenter()
         mavenCentral()
+        dependencies {
+            classpath 'com.google.gms:google-services:4.3.13'
+        }
+    }
+    dependencies {
+        classpath 'com.google.gms:google-services:4.3.10'
     }
 }
 plugins {
