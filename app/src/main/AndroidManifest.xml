@@ -11,10 +11,10 @@
         android:theme="@style/splash_screen_theme">
         <activity
             android:name=".signUp"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".logIn"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

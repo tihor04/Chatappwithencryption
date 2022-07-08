@@ -4,10 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/hp/AndroidStudioProjects/Chatappwithencryption/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Chatappwithencryption/app/src/main/res/drawable/btn_background.xml" value="0.1335" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Chatappwithencryption/app/src/main/res/drawable/btn_bg_signup.xml" value="0.1335" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Chatappwithencryption/app/src/main/res/drawable/edit_background.xml" value="0.1335" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Chatappwithencryption/app/src/main/res/drawable/edit_bg_signup.xml" value="0.1335" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Chatappwithencryption/app/src/main/res/drawable/ic_baseline_adb_24.xml" value="0.1335" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Chatappwithencryption/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Chatappwithencryption/app/src/main/res/drawable/splash_screen.xml" value="0.1335" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Chatappwithencryption/app/src/main/res/layout/activity_log_in.xml" value="0.20969202898550723" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Chatappwithencryption/app/src/main/res/layout/activity_sign_up.xml" value="0.20969202898550723" />
       </map>
     </option>
   </component>
